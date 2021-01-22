@@ -1,0 +1,7 @@
+{
+  "name": "Geofence",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}
