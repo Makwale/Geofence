@@ -1,0 +1,7 @@
+<?xml version='1.0' encoding='utf-8'?>
+<resources>
+    <string name="app_name">Geofence</string>
+    <string name="title_activity_main">Geofence</string>
+    <string name="package_name">com.geofence.emma</string>
+    <string name="custom_url_scheme">com.geofence.emma</string>
+</resources>
